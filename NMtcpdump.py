@@ -19,3 +19,6 @@ for pack in packets:
 print("Detected MAC Addresses of R2 and R3: ")
 for ip, macadd in mac.items():
     print(f"IP: {ip} ----- MAC: {macadd}")
+
+
+    print("   ")
