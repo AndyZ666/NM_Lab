@@ -101,3 +101,6 @@ if __name__ == "__main__":
             print("Could not obtain R5 IPv6 address!")
     else:
         print("SSH connection failed!")
+
+
+print("    ")
