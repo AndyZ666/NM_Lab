@@ -22,3 +22,5 @@ for ip, macadd in mac.items():
 
 
     print("   ")
+
+    print("")
